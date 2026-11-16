@@ -4,13 +4,11 @@
 #define MyAppExeName "PresenceStudio.exe"
 
 [Setup]
-AppId={{6B6DBE22-57E0-4A9E-8C83-2EAB29D26D12}
-AppName={#MyAppName}
-AppVersion={#MyAppVersion}
-AppPublisher={#MyAppPublisher}
+AppName=Presence Studio
+AppVersion=1.1.0
 DefaultDirName={autopf}\Presence Studio
-DefaultGroupName={#MyAppName}
-OutputDir=..\..\installer
+DefaultGroupName=Presence Studio
+OutputDir=installer
 OutputBaseFilename=PresenceStudio-Setup
 Compression=lzma
 SolidCompression=yes

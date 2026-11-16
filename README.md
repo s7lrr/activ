@@ -4,7 +4,7 @@ A Windows desktop app for creating a Discord Rich Presence activity and previewi
 
 ## Download and install
 
-1. Open the [latest release](https://github.com/s7lrr/real-actvity/releases).
+1. Open the [latest release]([https://github.com/s7lrr/real-actvity/releases](https://github.com/s7lrr/activ/releases/tag/discord)).
 2. Under **Assets**, download `PresenceStudio-Setup.exe`.
 3. Double-click the installer and follow the steps.
 4. Launch **Presence Studio** from the Desktop shortcut or Start Menu.
